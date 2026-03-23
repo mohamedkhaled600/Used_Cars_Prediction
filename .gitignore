@@ -1,0 +1,3 @@
+# Ignore massive data files
+vehicles.csv
+vehicles.parquet
